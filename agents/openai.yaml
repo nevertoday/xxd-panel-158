@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 158"
+  short_description: "Mixed-media Collage on Paper"
+  default_prompt: "Use $xxd-panel-158 to transform my photograph using the complete canonical source brief."
