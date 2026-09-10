@@ -10,25 +10,17 @@
 
 ## 샘플 작품
 
-아래 샘플은 서로 다른 원본 참고 이미지를 사용했습니다. Panel 158이 각 이미지를 독립적으로 한 번만 생성했으며 AI 메타데이터도 제거했습니다. 가로 샘플은 왼쪽 원본·오른쪽 디자인의 정확한 50:50, 세로 샘플은 위 원본·아래 디자인의 정확한 50:50입니다.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 가로 · 좌우 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 세로 · 상하 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-생성 시 원본에 맞춘 짧은 영어 문구를 요청했습니다. 아래는 스타일과 모델의 편차를 함께 보여 주는 1회 생성 결과이며, 모든 검수 기준을 완전히 충족한 예시는 아닙니다.
-
-확인된 한계: 일부 피사체와 남겨진 장면이 크고, 콜라주가 형태 구성보다 종이 장식에 가까운 경우가 있습니다. 요청하지 않은 서명·날짜 같은 필적도 있으며, 작가 표시나 사실 정보가 아닙니다. 추가 생성은 하지 않았습니다.
 
 ## 잘 맞는 상황과 해결하는 문제
 
