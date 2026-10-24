@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 158｜Mixed-media Collage on Paper: rebuilds the most recognisable subject of a photo as a mixed-media collage on paper — torn book pages, newspaper and printed-text scraps combined with loose, broken, repeated pencil, graphite, charcoal or ink lines and thin watercolour — in 2–4 fresh colours from the photo, kept as a small, clear focal point in large intentional whitespace, with a few titles, numbers, notes or printed fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-158 or asks for mixed-media collage, torn-paper and pencil sketch, or art-journal illustration from a photo.",
+  "short_description": "纸本综合拼贴志：用撕贴书页、报纸碎片和松动铅笔线，把照片拼成一张小幅纸本作品",
+  "zh-CN": {
+    "name": "纸本综合拼贴志",
+    "tagline": "用撕下的书页、报纸碎片和松散铅笔线，把照片主角拼成一小幅纸本作品。",
+    "look": "照片里最好认的主体被拼贴出来：撕贴的书页、报纸、印刷文字纸片和小块色纸，配上铅笔、石墨、炭笔或墨线勾的松散线条，线可以断开、重复、像随手涂画，再加一点轻薄水彩。颜色从照片里取 2–4 种，提亮去灰，清爽自然。主体压成一个小而明确的焦点，周围大量留空。画面里可以放少量标题、短句、编号或印刷文字碎片。",
+    "traits": [
+      "纸本拼贴",
+      "撕贴印刷纸",
+      "松动手绘线",
+      "综合材料",
+      "小焦点大留白"
+    ],
+    "good": [
+      "有故事感的单一主体：一个人的侧影、一只鸟、一把吉他、一盏台灯",
+      "旅行和日常的小片段：车票旁的咖啡、窗台上的花、街角的邮筒",
+      "想做成艺术手帐、杂志内页或展览小海报的照片"
+    ],
+    "poor": [
+      "需要精确还原的图：产品展示、证件照、需要看清细节的建筑",
+      "主体很多、关系复杂的合影或街景，会被删减到只剩一个焦点",
+      "想要光滑矢量、3D、商业模板或可爱卡通手帐风的需求"
+    ]
+  },
+  "en": {
+    "name": "Mixed-media Collage on Paper",
+    "tagline": "Builds the star of your photo from torn book pages, newspaper scraps and loose pencil lines.",
+    "look": "The most recognisable subject is collaged together from torn book pages, newspaper, printed-text scraps and small pieces of coloured paper, drawn over with loose pencil, graphite, charcoal or ink lines that can break, repeat and wander like a doodle, plus a little thin watercolour. Two to four colours from the photo are brightened and kept fresh. The subject is compressed into a small, clear focal point with plenty of empty space around it. A few titles, short phrases, numbers or printed fragments can appear.",
+    "traits": [
+      "Paper collage",
+      "Torn printed paper",
+      "Loose hand-drawn lines",
+      "Mixed media",
+      "Small focus, wide space"
+    ],
+    "good": [
+      "A single subject with a story: someone in profile, a bird, a guitar, a desk lamp",
+      "Small fragments of travel and daily life: coffee beside a ticket, flowers on a windowsill, a postbox on a corner",
+      "Photos you want as an art-journal page, a magazine spread or a small exhibition poster"
+    ],
+    "poor": [
+      "Images that must be reproduced exactly: product shots, ID photos, buildings where detail matters",
+      "Group photos or street scenes with many subjects, which are cut down to one focus",
+      "Requests for slick vector art, 3D, a commercial template or a cute cartoon-planner look"
+    ]
+  },
+  "ja": {
+    "name": "紙のミクストメディア・コラージュ",
+    "tagline": "破った本のページ、新聞の切れ端、ゆるい鉛筆の線で、写真の主役を小さな紙の作品にします。",
+    "look": "写真でいちばん目立つ主役を、破った本のページ、新聞、印刷文字の紙片、小さな色紙で貼り合わせ、鉛筆、黒鉛、木炭、インクのゆるい線で描き重ねます。線は途切れたり重なったり、落書きのようにさまよってもよく、薄い水彩も少し加えます。色は写真から二〜四色を取り、明るくすっきりさせます。主役は小さくはっきりした焦点にまとめ、まわりは大きく空けます。短いタイトル、ひと言、番号、印刷文字の断片が少し入ることもあります。",
+    "traits": [
+      "紙のコラージュ",
+      "破った印刷紙",
+      "ゆるい手描き線",
+      "ミクストメディア",
+      "小さな焦点と余白"
+    ],
+    "good": [
+      "物語を感じるひとつの主役：横顔、鳥、ギター、デスクランプ",
+      "旅や日常の小さな断片：切符の横のコーヒー、窓辺の花、街角のポスト",
+      "アートジャーナル、雑誌の誌面、小さな展示ポスターにしたい写真"
+    ],
+    "poor": [
+      "正確な再現が必要な画像：商品写真、証明写真、細部が大事な建物",
+      "主役が多く関係が複雑な集合写真や街並み（焦点ひとつに削られます）",
+      "なめらかなベクター、3D、商業テンプレート、かわいいキャラ手帳風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이 혼합 재료 콜라주",
+    "tagline": "찢은 책장, 신문 조각, 느슨한 연필선으로 사진 속 주인공을 작은 종이 작품으로 엮습니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 찢은 책장, 신문, 인쇄 글자 조각, 작은 색종이로 붙여 만들고, 연필, 흑연, 목탄, 먹선의 느슨한 선을 위에 그립니다. 선은 끊기거나 겹치거나 낙서처럼 헤매도 되고, 옅은 수채도 조금 더합니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 밝고 산뜻하게 다듬습니다. 주인공은 작고 분명한 초점으로 압축하고 주변은 넓게 비웁니다. 짧은 제목, 문장, 번호, 인쇄 글자 조각이 조금 들어갈 수 있습니다.",
+    "traits": [
+      "종이 콜라주",
+      "찢은 인쇄 종이",
+      "느슨한 손그림 선",
+      "혼합 재료",
+      "작은 초점과 여백"
+    ],
+    "good": [
+      "이야기가 느껴지는 하나의 주인공: 옆모습, 새, 기타, 책상 스탠드",
+      "여행과 일상의 작은 조각: 기차표 옆 커피, 창가의 꽃, 길모퉁이 우체통",
+      "아트 저널, 잡지 지면, 작은 전시 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확히 재현해야 하는 이미지: 제품 사진, 증명사진, 세부가 중요한 건물",
+      "주인공이 많고 관계가 복잡한 단체 사진이나 거리 풍경(초점 하나만 남습니다)",
+      "매끈한 벡터, 3D, 상업 템플릿, 귀여운 캐릭터 다이어리풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج بخامات مختلطة على الورق",
+    "tagline": "يبني بطل صورتك من صفحات كتب ممزقة وقصاصات صحف وخطوط قلم رصاص حرة.",
+    "look": "يُلصق أوضح عنصر في الصورة من صفحات كتب ممزقة وصحف وقصاصات نصوص مطبوعة وقطع صغيرة من الورق الملوّن، وتُرسم فوقها خطوط حرة بالقلم الرصاص أو الغرافيت أو الفحم أو الحبر، قد تنقطع أو تتكرر أو تتجول كالخربشة، مع قليل من الألوان المائية الخفيفة. تُؤخذ من الصورة لونان إلى أربعة ألوان وتُفتَّح لتبقى منعشة. يُختزل العنصر إلى نقطة تركيز صغيرة وواضحة تحيط بها مساحة فارغة كبيرة. وقد تظهر عناوين قليلة أو عبارات قصيرة أو أرقام أو قصاصات مطبوعة.",
+    "traits": [
+      "كولاج ورقي",
+      "ورق مطبوع ممزق",
+      "خطوط يدوية حرة",
+      "خامات مختلطة",
+      "تركيز صغير وفراغ واسع"
+    ],
+    "good": [
+      "عنصر واحد يحمل حكاية: شخص من الجانب، طائر، غيتار، مصباح مكتب",
+      "مقتطفات صغيرة من السفر واليوميات: قهوة بجانب تذكرة، أزهار على حافة نافذة، صندوق بريد عند زاوية شارع",
+      "صور تريدها صفحة في دفتر فني أو صفحة مجلة أو ملصق معرض صغير"
+    ],
+    "poor": [
+      "صور يجب أن تُنقل بدقة: صور المنتجات، صور الهوية، مبانٍ تهمّ تفاصيلها",
+      "صور جماعية أو مشاهد شوارع فيها عناصر كثيرة، تُختزل إلى نقطة تركيز واحدة",
+      "طلب رسوم متجهية ملساء أو مظهر ثلاثي الأبعاد أو قالب تجاري أو أسلوب كرتوني لطيف"
+    ]
+  }
+}

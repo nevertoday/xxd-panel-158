@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 158"
-  short_description: "Mixed-media Collage on Paper"
-  default_prompt: "Use $xxd-panel-158 to transform my photograph using the complete canonical source brief."
+  short_description: "纸本综合拼贴志：用撕贴书页、报纸碎片和松动铅笔线，把照片拼成一张小幅纸本作品"
+  default_prompt: "Use $xxd-panel-158 to turn my photo into Mixed-media Collage on Paper artwork."

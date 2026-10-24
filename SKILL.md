@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-158
-description: "Create XXD Panel 158 raster artwork from photographs using mixed-media collage on paper, torn printed-paper fragments integrated with loose hand-drawn linework, 2–4 fresh source-derived colours, a small focal subject and vast intentional whitespace. Use when the user invokes xxd-panel-158 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 158｜Mixed-media Collage on Paper: rebuilds the most recognisable subject of a photo as a mixed-media collage on paper — torn book pages, newspaper and printed-text scraps combined with loose, broken, repeated pencil, graphite, charcoal or ink lines and thin watercolour — in 2–4 fresh colours from the photo, kept as a small, clear focal point in large intentional whitespace, with a few titles, numbers, notes or printed fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-158 or asks for mixed-media collage, torn-paper and pencil sketch, or art-journal illustration from a photo."
 ---
 
 # XXD Panel 158
